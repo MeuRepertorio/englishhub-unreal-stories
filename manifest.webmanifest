@@ -1,0 +1,11 @@
+{
+ "name":"EnglishHub // Unreal Stories",
+ "short_name":"EnglishHub",
+ "description":"Inglês com micro-novelas surreais e treinos de 10 minutos",
+ "start_url":"./index.html",
+ "scope":"./",
+ "display":"standalone",
+ "background_color":"#080a0e",
+ "theme_color":"#080a0e",
+ "icons":[{"src":"assets/favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
